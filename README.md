@@ -2,12 +2,13 @@
 
 Flutter/Dart Project made by Rafael Matthew Tanumihardja.
 
-## What did i learn from this simple project
+## Description
 
-Just learn how to make a good page navigations, make background that fit into the container, using constants.
+From this simple project i learned how to make a good page navigations, made background that fit into the container, used constants, deal with columns and images. 
 
 ## Need to fixed and finished
 
 The setting page haven't done yet, need to improve about user interaction with the programming languages pages.
+Need to add logo on the application. 
 
 
