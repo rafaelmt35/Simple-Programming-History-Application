@@ -1,16 +1,13 @@
-# test3
+# Simple Android Application about history of Programming languages (Pascal, C++, Java, Python)
 
-A new Flutter project.
+Flutter/Dart Project made by Rafael Matthew Tanumihardja.
 
-## Getting Started
+## What did i learn from this simple project
 
-This project is a starting point for a Flutter application.
+Just learn how to make a good page navigations, make background that fit into the container, using constants.
 
-A few resources to get you started if this is your first Flutter project:
+## Need to fixed and finished
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The setting page haven't done yet, need to improve about user interaction with the programming languages pages.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
